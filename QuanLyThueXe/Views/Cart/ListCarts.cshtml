@@ -1,0 +1,128 @@
+﻿@model IEnumerable<QuanLyThueXe.Models.CartModel>
+
+@{
+    ViewBag.Title = "ListCarts";
+}
+<style>
+    /* Định dạng cho tiêu đề */
+    h2 {
+        font: bold 24px/1.5 sans-serif;
+        color: #333;
+        text-align: center;
+        padding: 10px 20px;
+        background-color: #FFCCFF;
+        text-decoration: none;
+        margin: 0 0 20px;
+    }
+
+
+    /* Định dạng cho nút "Create New" */
+    p a {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #28a745;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    /* Định dạng cho bảng sản phẩm */
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 2px solid black;
+    }
+
+        .table th, .table td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+
+        /* Định dạng cho tiêu đề cột */
+        .table th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+            border: 2px solid black;
+        }
+
+        /* Định dạng cho hàng sản phẩm */
+        .table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    .tttt {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        border: 2px solid black;
+    }
+        .table td {
+            border: 1px solid black;
+        }
+            /* Định dạng cho nút Chỉnh sửa, Xem chi tiết, Xóa */
+            .table td a {
+                margin-right: 10px;
+                text-decoration: none;
+                color: #007bff;
+            }
+
+                .table td a:hover {
+                    text-decoration: underline;
+                }
+</style>
+<h2>List Carts</h2>
+
+<p>
+    @Html.ActionLink("Add New Product","ListProduct","Product")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UnitPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Total)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "DelCartItem", new { id = item.ProductID })
+            </td>
+        </tr>
+    }
+    <tr class="tttt">
+        <td colspan="2"> Số lượng sản phẩm: @Model.Sum(m => m.Quantity) </td>
+        <td colspan="2"> Thành tiền: @Model.Sum(m=>m.UnitPrice)</td>
+        <td colspan="2"> @Html.ActionLink("Đặt hàng", "OrderProduct")</td>
+    </tr>
+
+</table>

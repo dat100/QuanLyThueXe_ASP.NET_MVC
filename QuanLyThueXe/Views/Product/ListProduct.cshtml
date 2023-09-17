@@ -1,0 +1,127 @@
+﻿@model PagedList.IPagedList<QuanLyThueXe.product>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "ListProduct";
+}
+
+<style>
+    /*định dạng cho khung tìm kiếm*/
+    .search-container {
+        display: flex;
+        align-items: center;
+    }
+
+    /* Định dạng cho tiêu đề */
+    h2 {
+        font: bold 24px/1.5 sans-serif;
+        color: #333;
+        text-align: center;
+        padding: 10px 20px;
+        background-color: #FFCCFF;
+        text-decoration: none;
+        margin: 0 0 20px;
+    }
+
+
+    /* Định dạng cho nút "Create New" */
+    p a {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #28a745;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    /* Định dạng cho bảng sản phẩm */
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 2px solid black;
+    }
+
+        .table th, .table td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+
+        /* Định dạng cho tiêu đề cột */
+        .table th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+            border: 2px solid black;
+        }
+
+        /* Định dạng cho hàng sản phẩm */
+        .table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .table td {
+            border: 1px solid black;
+        }
+            /* Định dạng cho nút Chỉnh sửa, Xem chi tiết, Xóa */
+            .table td a {
+                margin-right: 10px;
+                text-decoration: none;
+                color: #007bff;
+            }
+
+                .table td a:hover {
+                    text-decoration: underline;
+                }
+</style>
+
+<h2>List Product</h2>
+@using (Html.BeginForm())
+{
+    <div class="search-container">
+        Tìm sản phẩm: @Html.TextBox("SearchString", "", new { @class = "form-control" })
+        <input type="submit" name="btn btn_default" value="Search" />
+    </div>
+}
+<p></p>
+<p>
+    @Html.ActionLink("Create", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().ProductName)|
+            @Html.ActionLink("sắp xếp", "ListProduct", new {sortProduct = ViewBag.SortByName})
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().UnitPrice)|
+            @Html.ActionLink("sắp xếp", "ListProduct", new { sortProduct = ViewBag.SortByPrice})
+        </th>
+        <th style="width:400px">Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("Edit", new { id = item.ProductID })'">Edit</button>
+                <button type="button" class="btn btn-info" onclick="location.href='@Url.Action("Details", new { id = item.ProductID })'">Details</button>
+                <button type="button" class="btn btn-danger" onclick="location.href='@Url.Action("Delete", new { id = item.ProductID })'">Delete</button>
+                <button type="button" class="btn btn-success" onclick="location.href='@Url.Action("AddCart", "Cart", new { id = item.ProductID })'">Add to cart</button>
+            </td>
+        </tr>
+    }
+</table>
+<div>
+    <!-- Hiển thị trang hiện tại và tổng số trang -->
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+</div>
+@Html.PagedListPager(Model, page => Url.Action("ListProduct", new { page, searchString = ViewBag.SearchString }))
+

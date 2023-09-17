@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Tổng số lượng xe đã thuê trong tháng";
+}
+
+<style>
+    /* CSS cho kết quả */
+    .result-container {
+        text-align: center;
+        margin-top: 20px;
+        padding: 10px;
+        background-color: #f5f5f5;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .result-text {
+        font-size: 18px;
+        font-weight: bold;
+    }
+</style>
+
+<div class="result-container">
+    @if (ViewBag.TongSoLuongXeDaThueTrongThang != null)
+    {
+        <p class="result-text">Tổng số lượng xe đã thuê trong tháng @ViewBag.Thang là: @ViewBag.TongSoLuongXeDaThueTrongThang</p>
+    }
+    else
+    {
+    <p class="result-text">Không tồn tại tháng này</p>
+    }
+</div>

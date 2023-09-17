@@ -1,0 +1,81 @@
+﻿@model IEnumerable<QuanLyThueXe.login>
+
+@{
+    ViewBag.Title = "ListUser";
+}
+<style>
+    /* Định dạng cho tiêu đề */
+    h2 {
+        font: bold 24px/1.5 sans-serif;
+        color: #333;
+        text-align: center;
+        padding: 10px 20px;
+        background-color: #FFCCFF;
+        text-decoration: none;
+        margin: 0 0 20px;
+    }
+
+    /* Định dạng cho bảng sản phẩm */
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 2px solid black;
+    }
+
+        .table th, .table td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+
+        /* Định dạng cho tiêu đề cột */
+        .table th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+            border: 2px solid black;
+        }
+
+        /* Định dạng cho hàng sản phẩm */
+        .table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .table td {
+            border: 1px solid black;
+        }
+            /* Định dạng cho nút Chỉnh sửa, Xem chi tiết, Xóa */
+            .table td a {
+                margin-right: 10px;
+                text-decoration: none;
+                color: #007bff;
+            }
+
+                .table td a:hover {
+                    text-decoration: underline;
+                }
+</style>
+<h2>ListUser</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            <button type="button" class="btn btn-danger" onclick="location.href='@Url.Action("Delete", new { id = item.Username })'">Delete</button>
+        </td>
+    </tr>
+}
+
+</table>

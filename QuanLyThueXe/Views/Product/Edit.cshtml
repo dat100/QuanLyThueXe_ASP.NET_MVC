@@ -1,0 +1,133 @@
+﻿@model QuanLyThueXe.product
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<style>
+    /* Add the same styles as in the first file */
+    h2 {
+        font: bold 24px/1.5 sans-serif;
+        color: #333;
+        text-align: left;
+        padding: 10px 20px;
+        text-decoration: none;
+        margin: 0 0 20px;
+    }
+    
+    h4 {
+        text-align: center;
+        padding: 10px 20px;
+        background-color: #CCFF99;
+        color: #FF0000;
+        text-decoration: none;
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    /* Add the same styles as in the first file */
+    .form-horizontal {
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+        text-align:center;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    /* Add the same styles as in the first file */
+    .control-label {
+        font-weight: bold;
+        text-align: right;
+    }
+
+    /* Add the same styles as in the first file */
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    .col-md-10 input{
+        margin:0 auto;
+        display : inline-block;
+       
+    }
+    .col-md-10 {
+        margin: 0 auto;
+        display: inline-block;
+    }
+    /* Add the same styles as in the first file */
+    .btn-default {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;
+        font-weight: bold;
+    }
+    .btn-btl {
+        padding: 10px 20px;
+        background-color: #C0C0C0;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 20px;
+    }
+    /* Add the same styles as in the first file */
+    .text-danger {
+        color: red;
+    }
+</style>
+
+<h2>
+    <span style="background: #99FFFF; padding: 10px; border-radius: 5px ">Edit</span>
+</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Product</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ProductID)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ProductName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ProductName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ProductName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UnitPrice, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UnitPrice, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UnitPrice, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+
+            </div>
+            
+        </div>
+    </div>
+}
+
+<div class="text-center">
+    <a href="@Url.Action("ListProduct")" class="btn btn-default back-button">Back to List</a>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

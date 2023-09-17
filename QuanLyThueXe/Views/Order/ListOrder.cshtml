@@ -1,0 +1,150 @@
+﻿@model IEnumerable<QuanLyThueXe.order>
+
+@{
+    ViewBag.Title = "ListOrder";
+}
+<style>
+    /* Style for the form */
+    form {
+        
+        margin: 0 auto; 
+        text-align: center; 
+        max-width: 400px;
+    }
+
+    label {
+        font-weight: bold;
+    }
+
+    input[type="number"] {
+        padding: 5px;
+        width: 100px;
+    }
+
+    input[type="submit"] {
+        padding: 5px 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+    h2 {
+        font: bold 24px/1.5 sans-serif;
+        color: #333;
+        text-align: center;
+        padding: 10px 20px;
+        background-color: #FFCCFF;
+        text-decoration: none;
+        margin: 0 0 20px;
+    }
+
+
+    /* Định dạng cho nút "Create New" */
+    p a {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #28a745;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    /* Định dạng cho bảng sản phẩm */
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 2px solid black;
+    }
+
+        .table th, .table td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+
+        /* Định dạng cho tiêu đề cột */
+        .table th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+            border: 2px solid black;
+        }
+
+        /* Định dạng cho hàng sản phẩm */
+        .table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .table td {
+            border: 1px solid black;
+        }
+            /* Định dạng cho nút Chỉnh sửa, Xem chi tiết, Xóa */
+            .table td a {
+                margin-right: 10px;
+                text-decoration: none;
+                color: #007bff;
+            }
+
+                .table td a:hover {
+                    text-decoration: underline;
+                }
+</style>
+<form method="post" action="@Url.Action("TotalNumberOfProductSoldInTheMonth", "Order")">
+    <label for="month">Thống kê số lượng xe đã thuê trong tháng </label>
+    <label for="month">Nhập tháng:</label>
+    <input type="number" id="month" name="month" />
+    <input type="submit" value="Thống kê" />
+</form>
+
+<h2>List Order</h2>
+
+<p>
+    @Html.ActionLink("Create", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CustomerID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmployeeID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        <td>
+            <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("Edit", new { id = item.OrderID })'">Edit</button>
+            <button type="button" class="btn btn-info" onclick="location.href='@Url.Action("Details", new { id = item.OrderID })'">Details</button>
+            <button type="button" class="btn btn-danger" onclick="location.href='@Url.Action("Delete", new { id = item.OrderID })'">Delete</button>
+        </td>
+    </tr>
+}
+
+</table>

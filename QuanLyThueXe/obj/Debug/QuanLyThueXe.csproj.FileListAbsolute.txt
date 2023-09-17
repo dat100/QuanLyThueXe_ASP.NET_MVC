@@ -1,0 +1,260 @@
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\QuanLyThueXe.dll.config
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\QuanLyThueXe.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\QuanLyThueXe.pdb
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csc.exe
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csc.exe.config
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csc.rsp
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csi.exe
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csi.exe.config
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csi.rsp
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.AppContext.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Console.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.Compression.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Net.Http.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.ValueTuple.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\vbc.exe
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\vbc.exe.config
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\vbc.rsp
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\VBCSCompiler.exe
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\Antlr3.Runtime.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\Newtonsoft.Json.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Helpers.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Mvc.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Optimization.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Razor.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Razor.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\WebGrease.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Helpers.xml
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Mvc.xml
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Optimization.xml
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Razor.xml
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.xml
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Razor.xml
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\Newtonsoft.Json.xml
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\Antlr3.Runtime.pdb
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.AssemblyReference.cache
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.CopyComplete
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.dll
+C:\Users\thang\OneDrive\Máy tính\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.pdb
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\QuanLyThueXe.dll.config
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\QuanLyThueXe.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\QuanLyThueXe.pdb
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csc.exe
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csc.exe.config
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csc.rsp
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csi.exe
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csi.exe.config
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csi.rsp
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.Managed.Core.targets
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.AppContext.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Collections.Immutable.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Console.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Globalization.Calendars.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.Compression.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.FileSystem.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Net.Http.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Net.Sockets.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Reflection.Metadata.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.ValueTuple.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.XmlDocument.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.XPath.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\vbc.exe
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\vbc.exe.config
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\vbc.rsp
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\VBCSCompiler.exe
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\roslyn\VBCSCompiler.exe.config
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\Antlr3.Runtime.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Web.Infrastructure.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\Newtonsoft.Json.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Helpers.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Mvc.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Optimization.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Razor.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Deployment.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Razor.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\WebGrease.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Helpers.xml
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Mvc.xml
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Optimization.xml
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Razor.xml
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.xml
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Deployment.xml
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Razor.xml
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\Newtonsoft.Json.xml
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\Antlr3.Runtime.pdb
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.AssemblyReference.cache
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.CoreCompileInputs.cache
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.CopyComplete
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.dll
+D:\File nộp bài\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.pdb
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\QuanLyThueXe.dll.config
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\QuanLyThueXe.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\QuanLyThueXe.pdb
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csc.exe
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csc.exe.config
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csc.rsp
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csi.exe
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csi.exe.config
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\csi.rsp
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.AppContext.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Console.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.Compression.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Net.Http.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.ValueTuple.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\vbc.exe
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\vbc.exe.config
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\vbc.rsp
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\VBCSCompiler.exe
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Antlr3.Runtime.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Newtonsoft.Json.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Helpers.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Mvc.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Optimization.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Razor.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Razor.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\WebGrease.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Helpers.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Mvc.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Optimization.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.Razor.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\System.Web.WebPages.Razor.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Newtonsoft.Json.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Antlr3.Runtime.pdb
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.AssemblyReference.cache
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.CoreCompileInputs.cache
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.csproj.CopyComplete
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\obj\Debug\QuanLyThueXe.pdb
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\PagedList.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\PagedList.Mvc.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\PagedList.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\PagedList.Mvc.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\EntityFramework.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\EntityFramework.SqlServer.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Owin.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Owin.Security.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Owin.dll
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\EntityFramework.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\EntityFramework.SqlServer.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Owin.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Owin.Security.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MINH DAT\Desktop\QuanLyThueXe\QuanLyThueXe\bin\Microsoft.Owin.Security.OAuth.xml
